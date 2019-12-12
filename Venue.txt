@@ -1,0 +1,6 @@
+Hollywood Bowl,Los Angeles,17500
+Melbourne Recital Centre,Melbourne,1000
+Heaven at Hard Rock Hotel Riviera Maya,Puerto Rico,2000
+Walt Disney Concert Hall,Los Angeles,2265
+Rock & Roll Hall of Fame,Cleveland,10000
+Vivant Smart Home Arena,Salt Lake City,18300

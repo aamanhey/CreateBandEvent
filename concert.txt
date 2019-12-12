@@ -1,0 +1,13 @@
+Last World Tour,Rolling Stones,12-Dec-2019,17500,200.0,Hollywood Bowl,Los Angeles,17500
+Nine Types of Light Tour,TV on the Radio,28-Sep-2018,1700,120.0,Hollywood Bowl,Los Angeles,17500
+ABBA: The Tour,ABBA,30-Jan-2019,17500,210.0,Hollywood Bowl,Los Angeles,17500
+Erotic Reruns,Yeasayer,19-Feb-2020,1000,115.0,Melbourne Recital Centre,Melbourne,1000
+Wilco's Sky Blue Sky,Kamasi Washington,18-Jan-2020,2000,65.0,Heaven at Hard Rock Hotel Riviera Maya,Puerto Rico,2000
+The Beatle's World Tour,The Beatles,14-Mar-1964,1000,45.0,Melbourne Recital Centre,Melbourne,1000
+Speaking in Tongues,Talking Heads,23-Oct-1985,15300,76.0,Hollywood Bowl,Los Angeles,17500
+Governor's Ball,The Strokes,13-Jun-1994,2260,105.0,Walt Disney Concert Hall,Los Angeles,2265
+The 1975's US Tour,The 1975,18-Apr-2005,2257,68.0,Walt Disney Concert Hall,Los Angeles,2265
+The King of Lambs Tour,Radiohead,29-Mar-2011,9876,175.0,Rock & Roll Hall of Fame,Cleveland,10000
+Trench Tour,Twenty One Pilots,28-Oct-2019,18124,95.0,Vivant Smart Home Arena,Salt Lake City,18300
+The Beatle's European Tour,The Beatles,02-Jul-1965,2487,85.0,Plaza de toros de Las Ventas,Madrid,2500
+The Beatle's European Tour,The Beatles,26-Jun-1965,9998,75.0,Palasport di Genova,Genoa,10000
